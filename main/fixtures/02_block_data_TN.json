@@ -1,0 +1,34 @@
+[
+  {
+    "pk": 1,
+    "model": "knowledgebase.block",
+    "fields": {
+      "name": "Udhagai",
+      "district": 30
+    }
+  },
+  {
+    "pk": 2,
+    "model": "knowledgebase.block",
+    "fields": {
+      "name": "Coonoor",
+      "district": 30
+    }
+  },
+  {
+    "pk": 3,
+    "model": "knowledgebase.block",
+    "fields": {
+      "name": "Kotagiri",
+      "district": 30
+    }
+  },
+  {
+    "pk": 4,
+    "model": "knowledgebase.block",
+    "fields": {
+      "name": "Gudalur",
+      "district": 30
+    }
+  }
+]

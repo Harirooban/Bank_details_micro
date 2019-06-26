@@ -1,0 +1,290 @@
+[
+  {
+  "model": "main.district",
+  "pk": 1,
+  "fields": {
+    "state": 23,
+    "name": "Ariyalur",
+    "code": "Ari"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 2,
+  "fields": {
+    "state": 23,
+    "name": "Thanjavur",
+    "code": "Tha"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 3,
+  "fields": {
+    "state": 23,
+    "name": "Theni",
+    "code": "The"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 4,
+  "fields": {
+    "state": 23,
+    "name": "Thoothukudi",
+    "code": "Tho"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 5,
+  "fields": {
+    "state": 23,
+    "name": "Trichy",
+    "code": "Tir"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 6,
+  "fields": {
+    "state": 23,
+    "name": "Thirunelveli",
+    "code": "Tir"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 7,
+  "fields": {
+    "state": 23,
+    "name": "Tiruppur",
+    "code": "Tir"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 8,
+  "fields": {
+    "state": 23,
+    "name": "Thiruvallur",
+    "code": "Tir"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 9,
+  "fields": {
+    "state": 23,
+    "name": "Tiruvannamalai",
+    "code": "Tir"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 10,
+  "fields": {
+    "state": 23,
+    "name": "Thiruvarur",
+    "code": "Tir"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 11,
+  "fields": {
+    "state": 23,
+    "name": "Vellore",
+    "code": "Vel"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 12,
+  "fields": {
+    "state": 23,
+    "name": "Villupuram",
+    "code": "Vil"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 13,
+  "fields": {
+    "state": 23,
+    "name": "Virudhunagar",
+    "code": "Vir"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 14,
+  "fields": {
+    "state": 23,
+    "name": "Chennai",
+    "code": "Che"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 15,
+  "fields": {
+    "state": 23,
+    "name": "Coimbatore",
+    "code": "Coi"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 16,
+  "fields": {
+    "state": 23,
+    "name": "Cuddalore",
+    "code": "Cud"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 17,
+  "fields": {
+    "state": 23,
+    "name": "Dharmapuri",
+    "code": "Dha"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 18,
+  "fields": {
+    "state": 23,
+    "name": "Dindigul",
+    "code": "Din"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 19,
+  "fields": {
+    "state": 23,
+    "name": "Erode",
+    "code": "Ero"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 20,
+  "fields": {
+    "state": 23,
+    "name": "Kancheepuram",
+    "code": "Kan"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 21,
+  "fields": {
+    "state": 23,
+    "name": "Kanyakumari",
+    "code": "Kan"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 22,
+  "fields": {
+    "state": 23,
+    "name": "Karur",
+    "code": "Kar"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 23,
+  "fields": {
+    "state": 23,
+    "name": "Krishnagiri",
+    "code": "Kri"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 24,
+  "fields": {
+    "state": 23,
+    "name": "Madurai",
+    "code": "Mad"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 25,
+  "fields": {
+    "state": 23,
+    "name": "Nagapattinam",
+    "code": "Nag"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 26,
+  "fields": {
+    "state": 23,
+    "name": "Namakkal",
+    "code": "Nam"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 27,
+  "fields": {
+    "state": 23,
+    "name": "Nilgiris",
+    "code": "Nil"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 28,
+  "fields": {
+    "state": 23,
+    "name": "Perambalur",
+    "code": "Per"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 29,
+  "fields": {
+    "state": 23,
+    "name": "Pudukkottai",
+    "code": "Pud"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 30,
+  "fields": {
+    "state": 23,
+    "name": "Ramanathapuram",
+    "code": "Ram"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 31,
+  "fields": {
+    "state": 23,
+    "name": "Salem",
+    "code": "Sal"
+  }
+},
+{
+  "model": "main.district",
+  "pk": 32,
+  "fields": {
+    "state": 23,
+    "name": "Sivagangai",
+    "code": "Siv"
+  }
+}
+]

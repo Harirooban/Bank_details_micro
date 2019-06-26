@@ -1,0 +1,14 @@
+[
+  {
+    "fields": {
+      "name": "Dept. of Horticulture and Plantation Crops",
+      "shortname": "DHPC",
+      "url": "www.google.com",
+      "state_id": 23,
+      "phone": 1111122222,
+      "pincode": 111000
+    },
+    "model": "instance.business",
+    "pk": 1
+  }
+]
